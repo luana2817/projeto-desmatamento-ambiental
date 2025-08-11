@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+
+
+
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #e8f5e9;
+  color: #980d0d;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #66bb6a;
+  color: rgb(171, 53, 53);
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-left: 5px solid #a0435f;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #d67506;
+  margin-bottom: 10px;
+}
+h3 {
+  color: #c82976;
+  margin-bottom: 10px;
+}
+
+h4 {
+  color: #8a102d;
+  margin-bottom: 10px;
+}
+
+h5 {
+  color: #2516ae;
+  margin-bottom: 10px;
+}
+
+h6 {
+  color: #980f56;
+  margin-bottom: 10px;
+}
+
+h7 {
+  color: #d34a4a;
+  margin-bottom: 10px;
+}
+
+h8 {
+  color: #1c0e02;
+  margin-bottom: 10px;
+}
+h9 {
+  color: #980f1a;
+  margin-bottom: 10px;
+}
+
+h10 {
+  color: #440f98;
+  margin-bottom: 10px;
+}
+
+
+
+ul, ol {
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #388e3c;
+  color: rgb(239, 232, 232);
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+.destaque {
+  background-color: #c8e6c9;
+  border: 2px dashed #2e7d32;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.3em;
+  color: #1b5e20;
+  padding: 30px;
+}
+
+.destaque h2 {
+  font-size: 1.8em;
+  color: #1b5e20;
+  margin-bottom: 15px;
+}
+.video-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+
+    video {
+      width: 90vw;        /* 90% da largura da tela */
+      max-width: 1200px;   /* Limite máximo */
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    }
+
+
+
+     .imagem-esquerda {
+      float: left;
+      margin-left: 1%;
+      width: 100px;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    .container img {
+      width: 300px;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
